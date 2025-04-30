@@ -7,7 +7,7 @@
 保存历史数据供后续分析；
 
 
-〈pre〉
+```bash
 python3 ue-info.py --ue-id 3
 Starting UE[3] monitoring...
 Press Ctrl+C to stop
@@ -100,4 +100,5 @@ Press Ctrl+C to stop
   Signal Strength: EPRE=-69.3dBm, Path Loss=21.6dB, P_UE=-30.0dBm
   Signal Quality: PUCCH SNR=27.8dB, PUSCH SNR=14.8dB, CQI=14
   Modulation Coding: DL MCS=24.5, UL MCS=27, UL Layers=1
-〈/pre〉
+
+```
